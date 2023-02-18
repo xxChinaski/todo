@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todo/static/css/main.9e7d3390.css",
+    "main.js": "/todo/static/js/main.775d0c60.js",
+    "static/js/787.4f3072a8.chunk.js": "/todo/static/js/787.4f3072a8.chunk.js",
+    "static/media/Rectangle 14397.svg": "/todo/static/media/Rectangle 14397.44c74c218d9b99b859f42b06d8858276.svg",
+    "index.html": "/todo/index.html",
+    "main.9e7d3390.css.map": "/todo/static/css/main.9e7d3390.css.map",
+    "main.775d0c60.js.map": "/todo/static/js/main.775d0c60.js.map",
+    "787.4f3072a8.chunk.js.map": "/todo/static/js/787.4f3072a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e7d3390.css",
+    "static/js/main.775d0c60.js"
+  ]
+}
